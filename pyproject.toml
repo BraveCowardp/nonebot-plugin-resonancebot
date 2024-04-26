@@ -14,7 +14,7 @@ adapters = [
     { name = "OneBot V11", module_name = "nonebot.adapters.onebot.v11" }
 ]
 plugins = []
-plugin_dirs = ["nonebot_plugin_resonancebot/plugins"]
+plugin_dirs = []
 builtin_plugins = []
 
 [tool.pdm]
